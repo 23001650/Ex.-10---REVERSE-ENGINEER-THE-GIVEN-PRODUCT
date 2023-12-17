@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![Alt text](stoper.png)
 
 ### Output:
+![Alt text](<Screenshot 2023-12-17 113115.png>)
 
-
-### Name:
-### Register Number:
+### Name: SUNIL KUMAR T
+### Register Number:23001650
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
